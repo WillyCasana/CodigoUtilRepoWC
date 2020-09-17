@@ -1,0 +1,19 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Api Rest, Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Apit",
+    "Heroku"
+  ],
+  "author": "wcs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "process-env": "^1.1.0"
+  }
+}
